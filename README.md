@@ -32,3 +32,8 @@ Core Values
 Project Status
 
 Prototype in active development.
+## Design Development
+
+This branch is for testing and improving the Wederjojo website design.
+
+
